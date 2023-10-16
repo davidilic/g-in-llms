@@ -1,6 +1,4 @@
-### Near Future
-
-The paper will be put on Arxiv soon. Waiting for someone to show mercy and endorse me.
+The paper is available as paper.pdf, it will be put on Arxiv soon. Waiting for someone to show mercy and endorse me.
 
 ### Keywords
 
